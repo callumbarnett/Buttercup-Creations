@@ -1,0 +1,105 @@
+body {
+text-align: center;
+}
+
+.header-image {
+width: auto;
+z-index: -1;
+width: 100%;
+margin-bottom: 100px;
+}
+
+.logo {
+height: 100%;
+width: auto;
+margin: 50px 50px 50px 350px;
+}
+
+/* Nav Bar */
+
+.navbar-nav {
+margin-left: 38%
+}
+
+/* Gin Glass */
+
+#gin-glasses {
+height: 1200px;
+}
+
+.page {
+width: 100%;
+height: 700px;
+}
+
+.gin-main-image {
+border-radius: 70%;
+height: 50%;
+width: auto;
+}
+
+.price-card {
+margin-top: 100px;
+margin-right: 100px;
+}
+
+.gallery-image {
+height: 400px;
+padding: 20px;
+border-radius: 70%;
+margin-top: 20px;
+}
+
+.review-card {
+height: 400px;
+}
+
+/* Reviews */
+
+#reviews {
+height: 400px;
+background-color: #a3bc5a;
+margin-bottom: 100px;
+}
+
+.carousel-container {
+padding: 100px 10px 50px 10px;
+}
+
+/* Wine Glasses */
+
+#wine-glasses {
+height: 1200;
+}
+
+.wine-main-image {
+border-radius: 70%;
+width: 80%;
+}
+
+.wine-set-card {
+margin-left: 100px;
+}
+
+#wine-charm {
+position: relative;
+left: 50px;
+}
+
+#wine-paper{
+position: relative;
+right: 50px;
+}
+
+/* Contact */
+
+#contact {
+height: 900px;
+background-color: #a3bc5a;
+margin-bottom: 100px;
+padding: 50px;
+}
+
+.contact-form {
+padding: 50px;
+}
